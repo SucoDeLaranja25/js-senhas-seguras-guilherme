@@ -22,4 +22,6 @@ function aumentaTamanho(){
     numeroSenha.textContent = tamanhoSenha;
 }
 
+<input name="senha" type="text" id="campo-senha" readonly></input>
+
 console.log(botoes)
